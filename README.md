@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm emeryapi352 👋
 
-<!--
-**emeryapi352/emeryapi352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in London, UK.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+TypeScript, React, Next.js, TailwindCSS, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on web performance, design systems, accessible UI
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@emeryapi352](https://github.com/emeryapi352) on GitHub
